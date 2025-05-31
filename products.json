@@ -2,7 +2,7 @@
   {
     "product_name": "Milk 50kg",
     "product_id": "00001",
-    "product_pic": "https://yourimageurl.com/milk.jpg",
+    "product_pic": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/milk.jpg",
     "description": "A bag of powdered milk at 50kg",
     "price": 500,
     "Stock": 120,
@@ -11,9 +11,27 @@
   {
     "product_name": "Toothbrush",
     "product_id": "00012",
-    "product_pic": "https://yourimageurl.com/toothbrush.jpg",
+    "product_pic": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/toothbrush.jpg",
     "description": "Toothbrushes",
     "price": 10,
+    "Stock": 2000,
+    "minimum_order": 20
+  },
+   {
+    "product_name": "Gold",
+    "product_id": "00001",
+    "product_pic": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/gold.jpg",
+    "description": "A bag of powdered milk at 50kg",
+    "price": 500,
+    "Stock": 120,
+    "minimum_order": 1
+  },
+  {
+    "product_name": "Car",
+    "product_id": "00012",
+    "product_pic": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/car.jpg",
+    "description": "Toothbrushes",
+    "price": 100 000,
     "Stock": 2000,
     "minimum_order": 20
   }

@@ -2,37 +2,19 @@
   {
     "product_name": "Milk 50kg",
     "product_id": "00001",
-    "product_pic": "https://example.com/toothbrush.jpg",
+    "product_pic": "https://yourimageurl.com/milk.jpg",
     "description": "A bag of powdered milk at 50kg",
     "price": 500,
-    "stock": 120,
+    "Stock": 120,
     "minimum_order": 1
   },
   {
     "product_name": "Toothbrush",
     "product_id": "00012",
-    "product_pic": "https://example.com/toothbrush.jpg",
+    "product_pic": "https://yourimageurl.com/toothbrush.jpg",
     "description": "Toothbrushes",
     "price": 10,
-    "stock": 2000,
+    "Stock": 2000,
     "minimum_order": 20
-  },
-   {
-    "product_name": "Gold per gram",
-    "product_id": "00008",
-    "product_pic": "https://example.com/toothbrush.jpg",
-    "description": "Gold per gram",
-    "price": 200,
-    "stock": 120,
-    "minimum_order": 1
-  },
-  {
-    "product_name": "car",
-    "product_id": "00032",
-    "product_pic": "https://example.com/toothbrush.jpg",
-    "description": "car",
-    "price": 100 000,
-    "stock": 10,
-    "minimum_order": 1
   }
 ]

@@ -16,7 +16,7 @@
     "price": 10,
     "stock": 2000,
     "minimum_order": 20
-  }
+  },
    {
     "product_name": "Gold per gram",
     "product_id": "00008",
